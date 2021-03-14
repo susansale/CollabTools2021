@@ -1,2 +1,5 @@
 This is a .txt file for Collab Tools class.
 - Vanessa Eichensehr
+
+This is my modification. I am adding this sentence and a smiley face below it.
+:)
